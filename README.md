@@ -35,6 +35,9 @@ This is chatbot backend API built wuth SpringBoot, Rest, Open AI, Spring Data JP
 
 http://localhost:8080/swagger-ui.html
 
+![image](https://github.com/coding-nomadic/intelligent-chat-bot/assets/8009104/56130caf-d7cc-4503-9d9a-8b656f7eb80f)
+
+
 ## Some of the references from the internet are -
 
 - https://www.baeldung.com/spring-boot-chatgpt-api-openai
