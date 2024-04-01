@@ -1,6 +1,6 @@
 # Intelligent-Chatbot-Service
 
-This is Backend for recipe server built in springboot, REST, Open AI, Spring Data JPA, MongoDB -
+This is chatbot backend API built wuth SpringBoot, Rest, Open AI, Spring Data JPA, MongoDB -
 
 ## Features in this application- 
 
