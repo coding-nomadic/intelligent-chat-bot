@@ -20,7 +20,7 @@ This is Backend for recipe server built in springboot, REST, Open AI, Spring Dat
 - Spring Web MVC
 - Swagger UI 
 - Spring Data JPA
-- OpenAI APIs
+- Open AI
 - Apache Maven
 - MongoDB Database
 - Docker
@@ -31,7 +31,6 @@ This is Backend for recipe server built in springboot, REST, Open AI, Spring Dat
 
 ![Screenshot 2024-03-31 at 8 32 01 PM](https://github.com/coding-nomadic/intelligent-chat-bot/assets/8009104/7db46d01-b8e9-4492-9726-ccf89af3e6b0)
 
-
 # Swagger API - 
 
 http://localhost:8080/swagger-ui.html
@@ -39,7 +38,6 @@ http://localhost:8080/swagger-ui.html
 ## Some of the references from the internet are -
 
 - https://www.baeldung.com/spring-boot-chatgpt-api-openai
-- Recipe Service deployed here: https://recipe-service-ixhm.onrender.com
-- Authentication Service Repo: [https://github.com/coding-nomadic/authorisation-service](https://github.com/coding-nomadic/recipe-service/tree/main/authorisation-service-backend)
-- React UI Service Repo: [https://github.com/coding-nomadic/recipe-sharing-client](https://github.com/coding-nomadic/recipe-sharing-service/tree/main/recipe-sharing-client)
-- React UI deployed here: https://recipe-himalayan.netlify.app/
+- https://howtodoinjava.com/spring-boot/spring-async-completablefuture/
+- https://platform.openai.com/docs/libraries/python-library
+- https://www.baeldung.com/spring-data-mongodb-tutorial
