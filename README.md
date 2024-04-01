@@ -4,16 +4,16 @@ This is chatbot backend API built wuth SpringBoot, Rest, Open AI, Spring Data JP
 
 ## Features in this application- 
 
-- JWT token support for quick login.
-- Regular Username/Password authentication.
-- Stores user information in the PostgreSQL database.
-- Email verification to confirm during user registration
-- Create, view, update recipes, 
-- comments, ratings and view ingredients, cuisines
-- Stores API data in Cache to minimize network calls.
-- Scheduled tasks send email every 14 days to the most liked recipe makers
-- Analytics API covered to show case in UI.
-
+- Create User registration/sign up
+- Check for duplication of registration
+- Fetch All users
+- Fetch user by user ID
+- Delete user by user ID
+- Interacts with chatBot using user ID
+- ChatBot interacts with Open AI
+- Error/Failure handling with proper Error API response
+- API endpoints available with swagger UI
+  
 ## Tools and Technologies
 - Java 11
 - Spring Boot
