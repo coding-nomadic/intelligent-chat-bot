@@ -36,9 +36,9 @@ This is Backend for recipe server built in springboot, REST, Open AI, Spring Dat
 
 http://localhost:8080/swagger-ui.html
 
-## Application APIs are deployed in Render Cloud and UI is deployed in netlify -
+## Some of the references from the internet are -
 
-- Swagger: https://recipe-service-ixhm.onrender.com/swagger-ui/index.html#/
+- https://www.baeldung.com/spring-boot-chatgpt-api-openai
 - Recipe Service deployed here: https://recipe-service-ixhm.onrender.com
 - Authentication Service Repo: [https://github.com/coding-nomadic/authorisation-service](https://github.com/coding-nomadic/recipe-service/tree/main/authorisation-service-backend)
 - React UI Service Repo: [https://github.com/coding-nomadic/recipe-sharing-client](https://github.com/coding-nomadic/recipe-sharing-service/tree/main/recipe-sharing-client)
