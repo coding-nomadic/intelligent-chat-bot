@@ -1,31 +1,30 @@
 # Intelligent-Chatbot-Service
 
-This is chatbot backend API built wuth SpringBoot, Rest, Open AI, Spring Data JPA, MongoDB -
+Welcome to the Intelligent Chatbot Service, a robust backend API powered by Spring Boot, REST, OpenAI, Spring Data JPA, and MongoDB.
 
-## Features in this application- 
+## Key Features - 
 
-- Create User registration/sign up
-- Check for duplication of registration
-- Fetch All users
-- Fetch user by user ID
-- Delete user by user ID
-- Interacts with chatBot using user ID
-- ChatBot interacts with Open AI
-- Error/Failure handling with proper Error API response
-- API endpoints available with swagger UI
+- User Registration/Sign-up functionality
+- Duplicate registration prevention mechanism
+- User retrieval
+- User deletion
+- Seamless interaction with the chatbot using user ID
+- Integration with OpenAI for advanced conversational capabilities
+- Comprehensive error handling with standardized error responses
+- API endpoints documented and accessible through Swagger UI
   
 ## Tools and Technologies
 - Java 11
 - Spring Boot
 - Spring Web MVC
-- Swagger UI 
+- Swagger UI
 - Spring Data JPA
-- Open AI
+- OpenAI
 - Apache Maven
-- MongoDB Database
+- MongoDB
 - Docker
-- CI/CD
-- Junit and Mockito for Unit Testing
+- Continuous Integration/Continuous Deployment (CI/CD)
+- JUnit and Mockito for Unit Testing
 
 ## High Level Design for the Application - 
 
