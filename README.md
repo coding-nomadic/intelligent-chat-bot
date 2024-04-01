@@ -29,7 +29,8 @@ This is Backend for recipe server built in springboot, REST, Open AI, Spring Dat
 
 ## High Level Design for the Application - 
 
-![image](https://github.com/coding-nomadic/recipe-service/assets/8009104/94f1fba3-5e7f-492c-a392-d6e7ebd0be4c)
+![Screenshot 2024-03-31 at 8 32 01 PM](https://github.com/coding-nomadic/intelligent-chat-bot/assets/8009104/7db46d01-b8e9-4492-9726-ccf89af3e6b0)
+
 
 # Authorisation-Service
 
