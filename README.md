@@ -20,7 +20,7 @@ This is Backend for recipe server built in springboot, REST, Open AI, Spring Dat
 - Spring Web MVC
 - Swagger UI 
 - Spring Data JPA
-- Spring Validation
+- OpenAI APIs
 - Apache Maven
 - MongoDB Database
 - Docker
@@ -32,7 +32,6 @@ This is Backend for recipe server built in springboot, REST, Open AI, Spring Dat
 ![image](https://github.com/coding-nomadic/recipe-service/assets/8009104/94f1fba3-5e7f-492c-a392-d6e7ebd0be4c)
 
 # Authorisation-Service
-
 
 https://token-service.onrender.com/swagger-ui/index.html#/
 
