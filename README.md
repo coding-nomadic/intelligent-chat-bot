@@ -32,10 +32,9 @@ This is Backend for recipe server built in springboot, REST, Open AI, Spring Dat
 ![Screenshot 2024-03-31 at 8 32 01 PM](https://github.com/coding-nomadic/intelligent-chat-bot/assets/8009104/7db46d01-b8e9-4492-9726-ccf89af3e6b0)
 
 
-# Authorisation-Service
+# Swagger API - 
 
-https://token-service.onrender.com/swagger-ui/index.html#/
-
+http://localhost:8080/swagger-ui.html
 
 ## Application APIs are deployed in Render Cloud and UI is deployed in netlify -
 
