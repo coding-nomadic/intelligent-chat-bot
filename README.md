@@ -9,6 +9,7 @@ Welcome to the Intelligent Chatbot Service, a robust backend API powered by Spri
 - User retrieval
 - User deletion
 - Seamless interaction with the chatbot using user ID
+- Stores all chat history and user details in Mongo DB
 - Integration with OpenAI for advanced conversational capabilities
 - Comprehensive error handling with standardized error responses
 - API endpoints documented and accessible through Swagger UI
